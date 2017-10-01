@@ -1,6 +1,8 @@
 # Lane Detection on Nairobi Roads using OpenCV
 ## A lane detection algorith applied to Nairobi roads in Kenya
 
+![thumb0002](https://user-images.githubusercontent.com/7964520/31053948-6603cb62-a6b0-11e7-8166-2f7077b048ec.jpg)
+
 The main objective of this project is to find lane lines in video using basic computer vision. The lines on the road show us
 where the lanes are and act as a constant reference for where to steer the vehicle. Naturally, one of the first things we would
 like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.In this project I have
